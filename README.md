@@ -1,4 +1,3 @@
-# Saving-TaxCalculator.github.io
 # Savings and Investment Return Calculator
 
 ## Overview
